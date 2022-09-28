@@ -1,0 +1,21 @@
+body{
+    background-color: #CDF0EA;
+}
+
+.heading{
+    
+    margin-left: 25%;
+    margin-bottom: 50px;
+}
+.dp{
+    margin-top: 40px;
+    height: 30%;
+    width: 10%;
+    
+    position: absolute;
+    left: 40%;
+}
+.sub{
+    
+    margin-left: 40%;
+}
